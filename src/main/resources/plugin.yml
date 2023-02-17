@@ -5,3 +5,7 @@ api-version: 1.19
 prefix: ManulUnknownCommand
 authors: [ fynjy1111 ]
 description: Сообщение о неизвестной команде
+commands:
+  unknowncommand:
+    usage: /unknowncommand
+    description: Основная команда, служит для перезагрузки конфига
