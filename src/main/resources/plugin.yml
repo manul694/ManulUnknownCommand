@@ -1,0 +1,7 @@
+name: ManulUnknownCommand
+version: '${project.version}'
+main: com.github.manul694.manulunknowncommand.ManulUnknownCommand
+api-version: 1.19
+prefix: ManulUnknownCommand
+authors: [ fynjy1111 ]
+description: Сообщение о неизвестной команде
