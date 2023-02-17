@@ -1,4 +1,4 @@
 messages:
-  message: "&cНеизвестная команда"
+  unknowncommand: "&cНеизвестная команда"
   nopermission: "&cНедостаточно прав"
   reloaded: "&aКонфиг перезагружен"
